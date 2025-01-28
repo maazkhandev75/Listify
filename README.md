@@ -18,7 +18,7 @@ Follow these steps to get started:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/maazkhandev75/listify.git
+   git clone https://github.com/maazkhandev75/Listify.git
    ```
 2. Navigate to the project directory:
 
